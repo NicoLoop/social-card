@@ -11,7 +11,7 @@ import {
   Phone,
 } from 'lucide-react'
 
-const profileImage = 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Q1PcCtRHE7OW6KbgrTZqQ23aNTa1Ds.png'
+const profileImage = '/pfp.png'
 
 const socials = [
   { label: 'Instagram', handle: '@m.oinul.islam', href: 'https://instagram.com/m.oinul.islam', icon: 'instagram' },

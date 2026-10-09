@@ -5,7 +5,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Moinul Islam — Personal Profile',
   description: 'Connect with Moinul Islam, a student and creator based in Motijheel, Dhaka.',
-  generator: 'v0.app',
+  generator: '',
   icons: {
     icon: [
       {
